@@ -21,8 +21,8 @@ st.subheader("Kelsey Felton, Amy Nguyen")
 st.write("""
 Welcome to our Streamlit Web Development Lab03 app! You can navigate between the pages using the sidebar to the left. The following pages are:
 
-1. Amy's Portfolio
-2. Spider-Man's Portfolio
+1. **Amy's Portfolio**: This page is dedicated to Amy's portfolio and gives some info about her.
+2. **Kelsey's Portfolio**: This is the portfolio of Kelsey and gives a despcription on Tobey Maguire's Spider-Man.
 3.
 4.
 
