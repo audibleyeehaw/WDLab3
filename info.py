@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/peter-parker.jpg"
+profile_picture = "Images/peter-parker.jpg"
 about_me = "With great power, comes great responsiblility."
 
 
