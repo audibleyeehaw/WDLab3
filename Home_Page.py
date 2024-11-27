@@ -23,7 +23,7 @@ Welcome to our Streamlit Web Development Lab03 app! You can navigate between the
 
 1. **Amy's Portfolio**: This page is dedicated to Amy's portfolio and gives some info about her.
 2. **Kelsey's Portfolio**: This is the portfolio of Kelsey and gives a despcription on Tobey Maguire's Spider-Man.
-3.
+3. butt
 4.
 
 """)
